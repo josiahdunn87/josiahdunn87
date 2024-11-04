@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @josiahdunn87
+- 🙋 I’m interested in front-end and back-end web dev
+- 🧠 I’m currently learning Flask, Flexbox and React
+- 🫂 I’m looking to collaborate on web development projects
+- 📫 How to reach me: josiahdunn87@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: doing grade 8 Trinity guitar
